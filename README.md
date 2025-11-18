@@ -61,4 +61,4 @@ If you find Fedar useful, consider supporting development:
 
 ## License
 
-MLT
+MIT
