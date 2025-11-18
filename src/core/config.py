@@ -1,0 +1,23 @@
+WINDOW_WIDTH = 1100
+WINDOW_HEIGHT = 750
+WINDOW_MIN_WIDTH = 800
+WINDOW_MIN_HEIGHT = 600
+
+CONTENT_MARGIN = 48
+CONTENT_SPACING = 24
+CARD_PADDING = 20
+ROW_PADDING = 14
+
+SEARCH_DEBOUNCE_MS = 300
+MAX_SEARCH_RESULTS = 200
+
+ICON_PACKAGE = 'package-x-generic-symbolic'
+ICON_SEARCH = 'system-search-symbolic'
+ICON_CHEVRON = 'go-next-symbolic'
+ICON_ERROR = 'dialog-error-symbolic'
+
+CSS_CARD = 'card'
+CSS_DIM_LABEL = 'dim-label'
+CSS_TITLE_2 = 'title-2'
+CSS_TITLE_3 = 'title-3'
+CSS_TITLE_4 = 'title-4'
