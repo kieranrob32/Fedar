@@ -5,6 +5,9 @@ A modern GTK4 package manager for Fedora. Search, install, and manage DNF packag
 **Status:** Alpha
 
 ## Screenshots
+<img width="951" height="801" alt="image" src="https://github.com/user-attachments/assets/2fd576cd-35ae-4f7e-833a-bfb9c39e9fc8" />
+<img width="946" height="792" alt="image" src="https://github.com/user-attachments/assets/94f6356d-b669-47e5-a53f-0ca52e27a001" />
+
 
 
 ## What is this?
